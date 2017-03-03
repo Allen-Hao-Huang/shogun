@@ -6,7 +6,7 @@
 #ifdef USE_GPL_SHOGUN
 #ifdef HAVE_NLOPT
  #include <shogun/optimization/nloptcommon.h>
- #include <shogun/optimization/NLOPTMinimizer.h>
+ #include <shogun_gpl/optimization/NLOPTMinimizer.h>
 #endif //HAVE_NLOPT
 #endif //USE_GPL_SHOGUN
 %}
